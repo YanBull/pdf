@@ -1,0 +1,29 @@
+{
+  "name": "pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@sense.ai.tion/sense_ai_tion_api": "^2.1.133",
+    "anychart": "^8.3.0-rc0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "highcharts-export-server": "^2.0.28",
+    "http": "0.0.1-security",
+    "jsdom": "^16.4.0",
+    "node-chartist": "^1.0.5",
+    "pdfkit": "^0.11.0",
+    "plotter": "^0.5.0",
+    "puppeteer": "^5.4.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
